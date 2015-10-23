@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/JAVA_CORE/JAVA_CORE.iml" filepath="$PROJECT_DIR$/JAVA_CORE/JAVA_CORE.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaRushHomeWork.iml" filepath="$PROJECT_DIR$/JavaRushHomeWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestingProg/TestingProg.iml" filepath="$PROJECT_DIR$/TestingProg/TestingProg.iml" />
     </modules>

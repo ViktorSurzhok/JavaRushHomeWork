@@ -9,7 +9,7 @@ import java.util.HashMap;
 */
 
 public class Solution {
-	public static HashMap<String, Date> createMap() {
+	public static void createMap() {
 		HashMap<String, Date> map = new HashMap<String, Date>();
 		map.put("Stallone", new Date("JUNE 1 1980"));
 
